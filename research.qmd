@@ -8,6 +8,3 @@ editor: source
 
 Driscoll, Amanda, Michael J. Nelson, **Rachel Canino**, and Matheus Zanetti. 2026. "Partisanized Participation in Nonpartisan Elections: Evidence from Mexico’s Extraordinary Judicial Elections." *Política y Gobierno* 33(1).
 
-## Research Skills
-
-Quantitative methods and statistical analysis in R, survey design in Qualtrics, and reproducible data-collection procedures. Certified through CITI Human Subjects Research and ICPSR Social Network Analysis in Human Subjects Research.
