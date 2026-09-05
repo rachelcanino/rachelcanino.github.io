@@ -1,0 +1,12 @@
+---
+title: Research
+editor: source
+---
+
+## Publications
+
+Driscoll, A., Nelson, M., **Canino, R.**, & Zanetti, M. (2026). Partisanized participation in nonpartisan elections: Evidence from Mexico's extraordinary judicial elections. *Política y Gobierno*, 33(1).
+
+## Research Skills
+
+Quantitative methods and statistical analysis in R, survey design in Qualtrics, and reproducible data-collection procedures. Certified through CITI Human Subjects Research and ICPSR Social Network Analysis in Human Subjects Research.

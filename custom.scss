@@ -1,0 +1,177 @@
+/*-- scss:defaults --*/
+
+// One family, used across a wide weight range.
+$web-font-path: "https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,600;1,400&display=swap";
+$font-family-sans-serif: "Spectral", Georgia, "Times New Roman", serif;
+
+// Palette. Change these five values to reskin the whole site.
+$ink:   #1a1d1a;   // near-black with a faint green cast
+$paper: #fbfaf7;   // barely warm off-white
+$moss:  #34493c;   // deep green: links, rules, footer
+$rule:  #ddd9d0;   // hairlines
+$muted: #6b6f68;   // navigation, secondary text
+
+$body-bg:    $paper;
+$body-color: $ink;
+
+$link-color:            $moss;
+$link-decoration:       none;
+$link-hover-color:      $ink;
+$link-hover-decoration: underline;
+
+$font-size-base:   1.0625rem;
+$line-height-base: 1.75;
+
+$headings-color:       $ink;
+$headings-font-weight: 600;
+
+$navbar-bg: $paper;
+$navbar-fg: $muted;
+$navbar-hl: $ink;
+
+$footer-bg: $moss;
+$footer-fg: $moss;
+
+/*-- scss:rules --*/
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+// Navigation sits quietly above a hairline; no shadow, no fill.
+.navbar {
+  border-bottom: 1px solid $rule;
+  box-shadow: none;
+  padding-top: 1.15rem;
+  padding-bottom: 1.15rem;
+}
+
+.navbar-brand {
+  font-size: 1.0625rem;
+  font-weight: 600;
+  letter-spacing: 0.005em;
+}
+
+.navbar .nav-link {
+  font-size: 0.9375rem;
+  padding-left: 0.85rem;
+  padding-right: 0.85rem;
+}
+
+// Pull the whole block up closer to the navbar.
+.quarto-about-trestles {
+  margin-top: 0.5rem !important;
+  padding-top: 0 !important;
+}
+
+// Quarto centres this column with flexbox and puts a gap between the
+// photo, name and links. Kill both: flush left, spacing set by margins.
+.quarto-about-trestles .about-entity {
+  align-items: flex-start !important;
+  text-align: left !important;
+  gap: 0 !important;
+}
+
+.quarto-about-trestles .about-entity .about-links {
+  align-items: flex-start !important;
+  justify-content: flex-start !important;
+  text-align: left !important;
+  width: 100%;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  gap: 0 !important;
+}
+
+.quarto-about-trestles #title-block-header,
+.quarto-about-trestles .quarto-title-block,
+.quarto-about-trestles .quarto-title {
+  text-align: left !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+// The name on one line, sized so it spans roughly the photo's width.
+// No max-width here, so it will not wrap.
+#title-block-header .title,
+.quarto-about-trestles h1.title,
+.quarto-title h1.title {
+  font-weight: 300;
+  font-size: 2.5rem;
+  line-height: 1.1;
+  letter-spacing: -0.015em;
+  white-space: nowrap;
+  margin-top: 0.85rem !important;
+  margin-bottom: 0.85rem !important;
+}
+
+.quarto-about-trestles .about-image {
+  margin-bottom: 0 !important;
+}
+
+// Body measure stays under 70 characters.
+main.content p,
+.about-contents p,
+.quarto-about-trestles .about-contents {
+  max-width: 34rem;
+}
+
+// Section headings: green, rule beneath, plenty of air above.
+main.content h2 {
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: $moss;
+  border-bottom: 1px solid $rule;
+  padding-bottom: 0.45rem;
+  margin-top: 3rem;
+  margin-bottom: 1.35rem;
+}
+
+main.content h3 {
+  font-weight: 600;
+  font-size: 1.0625rem;
+  margin-top: 1.75rem;
+}
+
+strong, b { font-weight: 600; }
+
+// Square photo, slightly desaturated so it sits with the palette.
+.about-image {
+  border-radius: 0 !important;
+  filter: grayscale(12%);
+}
+
+// Links read as a contact line, not buttons.
+.about-link {
+  border: none !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  color: $moss !important;
+  font-size: 0.9375rem;
+  padding: 0 !important;
+  margin: 0 1.3rem 0.45rem 0 !important;
+  transition: color 0.15s ease;
+}
+
+.about-link:hover {
+  background: transparent !important;
+  color: $ink !important;
+  text-decoration: underline;
+}
+
+.about-link .bi {
+  margin-right: 0.35rem;
+  font-size: 0.9em;
+}
+
+// Footer: a solid band, no text.
+.nav-footer {
+  min-height: 4.5rem;
+  border-top: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .about-link { transition: none; }
+}

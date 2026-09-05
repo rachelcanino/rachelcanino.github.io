@@ -1,0 +1,27 @@
+---
+title: Rachel Canino
+image: headshot.jpg
+image-alt: Rachel Canino
+editor: source
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:rc23i@fsu.edu
+    - icon: file-earmark-pdf
+      text: CV
+      href: cv.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rachel-c-019533165
+    - icon: person-vcard
+      text: ORCID
+      href: https://orcid.org/0009-0008-7043-728X
+---
+
+I am a Ph.D. candidate in the Department of Political Science at Florida State University, specializing in international relations and comparative politics. My research interests fall within the areas of political economy, conflict, and political psychology.
+
+Before starting at FSU, I earned my B.A. in Political Science from Queens College, CUNY.

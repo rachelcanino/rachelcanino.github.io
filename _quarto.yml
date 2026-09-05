@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - cv.pdf
+
+website:
+  title: "Rachel Canino"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - research.qmd
+      - teaching.qmd
+      - text: CV
+        href: cv.qmd
+  page-footer:
+    center: "&nbsp;"
+    background: "#34493c"
+    foreground: "#34493c"
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    css: styles.css
