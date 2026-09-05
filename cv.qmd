@@ -3,12 +3,5 @@ title: CV
 editor: source
 ---
 
-[Download CV (PDF)](cv.pdf){.cv-download}
+[Download as PDF](cv.pdf){.cv-download}
 
-::: {.cv-embed}
-
-:::
-
-::: {.cv-mobile-note}
-
-:::

@@ -5,11 +5,14 @@ editor: source
 
 ## Instructor of Record
 
+**International Human Rights (INR 4075)**\
+[Florida State University · Advanced undergraduate · Spring 2027]{.course-meta}
+
 **Terror and Politics (INR 3084)**\
-[Florida State University · Undergraduate, upper division · Fall 2026]{.course-meta}
+[Florida State University · Advanced undergraduate · Fall 2026]{.course-meta}
 
 **Introduction to International Relations (INR 2002)**\
-[Florida State University · Undergraduate, introductory · Summer 2026]{.course-meta}
+[Florida State University · Undergraduate · Summer 2026]{.course-meta}
 
 ## Graduate Teaching Assistant
 
@@ -17,10 +20,10 @@ editor: source
 [Florida State University · Undergraduate methods · Fall 2025 to present]{.course-meta}
 
 **Introduction to Comparative Government (CPO 2002)**\
-[Florida State University · Undergraduate, introductory · Fall 2024 to Spring 2025]{.course-meta}
+[Florida State University · Undergraduate · Fall 2024 to Spring 2025]{.course-meta}
 
 **Introduction to American Government (POS 1041)**\
-[Florida State University · Undergraduate, introductory · Fall 2023 to Spring 2024]{.course-meta}
+[Florida State University · Undergraduate · Fall 2023 to Spring 2024]{.course-meta}
 
 ## Research Mentoring
 

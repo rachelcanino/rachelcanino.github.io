@@ -4,21 +4,21 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Terror and Politics (INR 3084)\nFlorida State University · Undergraduate, upper division · Fall 2026\nIntroduction to International Relations (INR 2002)\nFlorida State University · Undergraduate, introductory · Summer 2026"
+    "text": "International Human Rights (INR 4075)\nFlorida State University · Advanced undergraduate · Spring 2027\nTerror and Politics (INR 3084)\nFlorida State University · Advanced undergraduate · Fall 2026\nIntroduction to International Relations (INR 2002)\nFlorida State University · Undergraduate · Summer 2026"
   },
   {
     "objectID": "teaching.html#instructor-of-record",
     "href": "teaching.html#instructor-of-record",
     "title": "Teaching",
     "section": "",
-    "text": "Terror and Politics (INR 3084)\nFlorida State University · Undergraduate, upper division · Fall 2026\nIntroduction to International Relations (INR 2002)\nFlorida State University · Undergraduate, introductory · Summer 2026"
+    "text": "International Human Rights (INR 4075)\nFlorida State University · Advanced undergraduate · Spring 2027\nTerror and Politics (INR 3084)\nFlorida State University · Advanced undergraduate · Fall 2026\nIntroduction to International Relations (INR 2002)\nFlorida State University · Undergraduate · Summer 2026"
   },
   {
     "objectID": "teaching.html#graduate-teaching-assistant",
     "href": "teaching.html#graduate-teaching-assistant",
     "title": "Teaching",
     "section": "Graduate Teaching Assistant",
-    "text": "Graduate Teaching Assistant\nUnderstanding Political Research (POS 3713)\nFlorida State University · Undergraduate methods · Fall 2025 to present\nIntroduction to Comparative Government (CPO 2002)\nFlorida State University · Undergraduate, introductory · Fall 2024 to Spring 2025\nIntroduction to American Government (POS 1041)\nFlorida State University · Undergraduate, introductory · Fall 2023 to Spring 2024"
+    "text": "Graduate Teaching Assistant\nUnderstanding Political Research (POS 3713)\nFlorida State University · Undergraduate methods · Fall 2025 to present\nIntroduction to Comparative Government (CPO 2002)\nFlorida State University · Undergraduate · Fall 2024 to Spring 2025\nIntroduction to American Government (POS 1041)\nFlorida State University · Undergraduate · Fall 2023 to Spring 2024"
   },
   {
     "objectID": "teaching.html#research-mentoring",
@@ -42,6 +42,27 @@
     "text": "Driscoll, Amanda, Michael J. Nelson, Rachel Canino, and Matheus Zanetti. 2026. “Partisanized Participation in Nonpartisan Elections: Evidence from Mexico’s Extraordinary Judicial Elections.” Política y Gobierno 33(1)."
   },
   {
+    "objectID": "research.html#presentations",
+    "href": "research.html#presentations",
+    "title": "Research",
+    "section": "Presentations",
+    "text": "Presentations\n\n“Does Music Mobilize? An Experimental Study of Collective Action.” Global Public Opinion Workshop, Florida State University, Tallahassee, FL, November 2025.\n\n\n“Dread and Defense.” International Society of Public Law (ICON-S) Annual Conference, University of Brasília, Brazil, 2025.\n\nAccepted; unable to attend."
+  },
+  {
+    "objectID": "research.html#research-assistance",
+    "href": "research.html#research-assistance",
+    "title": "Research",
+    "section": "Research Assistance",
+    "text": "Research Assistance\nGraduate Research Assistant, Department of Political Science, Florida State University, 2023–present.\n\nBuild original cross-national news media corpora using Factiva, Nexis Uni, and direct publication archives, structured for quantitative text analysis, and assess outlet representation and political bias across the resulting samples.\nConduct quantitative analysis, construct and manage original datasets, and carry out systematic literature reviews for faculty research projects.\nDesign and document data-collection workflows for methods sections and replication materials, and develop procedural guides for incoming research assistants."
+  },
+  {
+    "objectID": "research.html#research-skills",
+    "href": "research.html#research-skills",
+    "title": "Research",
+    "section": "Research Skills",
+    "text": "Research Skills\nQuantitative methods and statistical analysis in R, construction of original cross-national media corpora, survey design in Qualtrics, and reproducible data-collection and documentation procedures. Additional software: Python and LaTeX."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Rachel Canino",
@@ -53,6 +74,6 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Download CV (PDF)"
+    "text": "Download as PDF"
   }
 ]
