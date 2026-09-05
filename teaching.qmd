@@ -3,18 +3,28 @@ title: Teaching
 editor: source
 ---
 
-
-
 ## Instructor of Record
 
-**Terror and Politics (INR 3084)** — Fall 2026
+**Terror and Politics (INR 3084)**\
+[Florida State University · Undergraduate, upper division · Fall 2026]{.course-meta}
 
-**Introduction to International Relations (INR 2002)** — Summer 2026
+**Introduction to International Relations (INR 2002)**\
+[Florida State University · Undergraduate, introductory · Summer 2026]{.course-meta}
 
 ## Graduate Teaching Assistant
 
-**Understanding Political Research (POS 3713)** — Fall 2025 to present
+**Understanding Political Research (POS 3713)**\
+[Florida State University · Undergraduate methods · Fall 2025 to present]{.course-meta}
 
-**Introduction to Comparative Government (CPO 2002)** — Fall 2024 to Spring 2025
+**Introduction to Comparative Government (CPO 2002)**\
+[Florida State University · Undergraduate, introductory · Fall 2024 to Spring 2025]{.course-meta}
 
-**Introduction to American Government (POS 1041)** — Fall 2023 to Spring 2024
+**Introduction to American Government (POS 1041)**\
+[Florida State University · Undergraduate, introductory · Fall 2023 to Spring 2024]{.course-meta}
+
+## Research Mentoring
+
+**Undergraduate Research Opportunity Program (UROP)**\
+[Florida State University · 2026 to 2027]{.course-meta}
+
+Supervising an undergraduate research assistant over a yearlong appointment, culminating in the mentee's presentation at the annual undergraduate research symposium.

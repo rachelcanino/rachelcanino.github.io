@@ -137,6 +137,23 @@ main.content h3 {
 
 strong, b { font-weight: 600; }
 
+// Metadata line beneath a course title: institution, level, term.
+// Small and muted so it cannot be mistaken for a heading.
+.course-meta {
+  display: block;
+  font-size: 0.82rem;
+  color: $muted;
+  letter-spacing: 0.01em;
+  line-height: 1.5;
+  margin-top: 0.12rem;
+}
+
+// Course entries are single paragraphs; keep them from drifting apart.
+main.content h2 + p,
+main.content p:has(.course-meta) {
+  margin-bottom: 1.05rem;
+}
+
 // Square photo, slightly desaturated so it sits with the palette.
 .about-image {
   border-radius: 0 !important;
