@@ -3,6 +3,12 @@ title: CV
 editor: source
 ---
 
-[Download as PDF](cv.pdf)
+[Download CV (PDF)](cv.pdf){.cv-download}
 
-<iframe src="cv.pdf" style="width:100%; height:85vh; border:1px solid #ddd9d0; margin-top:1rem;" title="Curriculum vitae"></iframe>
+::: {.cv-embed}
+
+:::
+
+::: {.cv-mobile-note}
+
+:::
