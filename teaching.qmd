@@ -17,7 +17,7 @@ editor: source
 ## Graduate Teaching Assistant
 
 **Understanding Political Research (POS 3713)**\
-[Florida State University · Undergraduate methods · Fall 2025 to present]{.course-meta}
+[Florida State University · Undergraduate methods · Fall 2025 to Spring 2026]{.course-meta}
 
 **Introduction to Comparative Government (CPO 2002)**\
 [Florida State University · Undergraduate · Fall 2024 to Spring 2025]{.course-meta}
